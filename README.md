@@ -1,4 +1,4 @@
-# Delhi-Metro---Prediction-Data-Analysis
+# SmartMetro360
 
 # Project Overview
 This project utilizes Python and Power BI to optimize Delhi Metro operations by analyzing passenger flow, predicting demand, optimizing train schedules, and delivering actionable insights through data visualization and machine learning models. The goal is to enhance operational efficiency, reduce wait times, and improve the commuter experience.
